@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="add">Add book</string>
+    <string name="save">Save</string>
+    <string name="name">Enter name</string>
+    <string name="author">Enter author</string>
+    <string name="description">Enter description</string>
+    <string name="book_info">Book info</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit book</string>
+    <string name="book_deletion">Book deletion</string>
+    <string name="book_deletion_message">Are you sure you want to delete this book?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
